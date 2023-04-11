@@ -1,1 +1,1 @@
-# Restaraunt_Recommender
+# Restaurant_Recommender
